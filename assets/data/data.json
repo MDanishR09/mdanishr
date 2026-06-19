@@ -1,0 +1,464 @@
+{
+  "sections": [
+    {
+      "id": 1,
+      "num": "01",
+      "title": "Theoretical Foundations & Logic",
+      "papers": [
+        {
+          "year": "1936",
+          "title": "On Computable Numbers, with an Application to the Entscheidungsproblem",
+          "author": "Alan Turing",
+          "link": "https://www.cs.virginia.edu/~robins/Turing_Paper_1936.pdf",
+          "linkLabel": "Read Paper"
+        },
+        {
+          "year": "1948",
+          "title": "A Mathematical Theory of Communication",
+          "author": "Claude Shannon",
+          "link": "https://web.archive.org/web/20150204015826/http://cm.bell-labs.com/cm/ms/what/shannonday/shannon1948.pdf",
+          "linkLabel": "Read Paper"
+        },
+        {
+          "year": "1965",
+          "title": "Solution of a Problem in Concurrent Programming Control",
+          "author": "Edsger Dijkstra",
+          "link": "https://dl.acm.org/doi/10.1145/365559.365617",
+          "linkLabel": "Read Paper"
+        },
+        {
+          "year": "1968",
+          "title": "Go To Statement Considered Harmful",
+          "author": "Edsger Dijkstra",
+          "link": "https://dl.acm.org/doi/10.1145/362929.362947",
+          "linkLabel": "Read Paper"
+        },
+        {
+          "year": "1968",
+          "title": "An Axiomatic Basis for Computer Programming",
+          "author": "C.A.R. Hoare",
+          "link": "https://dl.acm.org/doi/10.1145/363235.363259",
+          "linkLabel": "Read Paper"
+        },
+        {
+          "year": "1971",
+          "title": "The Complexity of Theorem-Proving Procedures",
+          "author": "Stephen Cook",
+          "link": "https://dl.acm.org/doi/pdf/10.1145/800157.805047",
+          "linkLabel": "Read Paper"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "num": "02",
+      "title": "Algorithms & Data Structures",
+      "papers": [
+        {
+          "year": "1962",
+          "title": "Quicksort",
+          "author": "C.A.R. Hoare",
+          "link": "https://dl.acm.org/doi/10.1145/366622.366644",
+          "linkLabel": "Read Paper"
+        },
+        {
+          "year": "1984",
+          "title": "Programming Pearls: Algorithm Design Techniques",
+          "author": "Jon Bentley",
+          "link": "https://dl.acm.org/doi/pdf/10.1145/358107.358113",
+          "linkLabel": "Read Column"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "num": "03",
+      "title": "Programming Languages & Compilers",
+      "papers": [
+        {
+          "year": "1960",
+          "title": "Recursive Functions of Symbolic Expressions and Their Computation by Machine (LISP)",
+          "author": "John McCarthy",
+          "link": "https://dl.acm.org/doi/10.1145/367177.367199",
+          "linkLabel": "Read Paper"
+        },
+        {
+          "year": "1960",
+          "title": "Report on the Algorithmic Language ALGOL 60",
+          "author": "Naur et al.",
+          "link": "https://dl.acm.org/doi/10.1145/367236.367262",
+          "linkLabel": "Read Paper"
+        },
+        {
+          "year": "1977",
+          "title": "A Theory of Type Polymorphism in Programming",
+          "author": "Robin Milner",
+          "link": "https://www.sciencedirect.com/science/article/pii/0022000078900144",
+          "linkLabel": "Read Paper"
+        },
+        {
+          "year": "1978",
+          "title": "Can Programming Be Liberated from the von Neumann Style?",
+          "author": "John Backus",
+          "link": "https://dl.acm.org/doi/10.1145/359576.359579",
+          "linkLabel": "Read Paper"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "num": "04",
+      "title": "Physical Architecture, OS & Networking",
+      "papers": [
+        {
+          "year": "1945",
+          "title": "First Draft of a Report on the EDVAC",
+          "author": "John von Neumann",
+          "link": "https://archive.org/details/firstdraftofrepo00vonn",
+          "linkLabel": "Read Paper"
+        },
+        {
+          "year": "1968",
+          "title": "The Structure of the \"THE\" Multiprogramming System",
+          "author": "Edsger Dijkstra",
+          "link": "https://dl.acm.org/doi/10.1145/363095.363143",
+          "linkLabel": "Read Paper"
+        },
+        {
+          "year": "1974",
+          "title": "The UNIX Time-Sharing System",
+          "author": "Dennis Ritchie & Ken Thompson",
+          "link": "https://www.bell-labs.com/usr/dmr/www/chist.html",
+          "linkLabel": "Read Paper"
+        },
+        {
+          "year": "1974",
+          "title": "A Protocol for Packet Network Intercommunication",
+          "author": "Vint Cerf & Bob Kahn",
+          "link": "https://ieeexplore.ieee.org/document/1092259",
+          "linkLabel": "Read Paper"
+        },
+        {
+          "year": "1988",
+          "title": "Congestion Avoidance and Control",
+          "author": "Van Jacobson",
+          "link": "https://dl.acm.org/doi/10.1145/52324.52356",
+          "linkLabel": "Read Paper"
+        },
+        {
+          "year": "1989",
+          "title": "Information Management: A Proposal",
+          "author": "Tim Berners-Lee",
+          "link": "https://www.w3.org/History/1989/proposal.html",
+          "linkLabel": "Read Proposal"
+        },
+        {
+          "year": "2003",
+          "title": "Xen and the Art of Virtualization",
+          "author": "Barham et al.",
+          "link": "https://dl.acm.org/doi/10.1145/945445.945462",
+          "linkLabel": "Read Paper"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "num": "05",
+      "title": "Databases & Distributed Systems",
+      "papers": [
+        {
+          "year": "1970",
+          "title": "A Relational Model of Data for Large Shared Data Banks",
+          "author": "Edgar F. Codd",
+          "link": "https://dl.acm.org/doi/pdf/10.1145/362384.362685",
+          "linkLabel": "Read Paper"
+        },
+        {
+          "year": "1978",
+          "title": "Time, Clocks, and the Ordering of Events in a Distributed System",
+          "author": "Leslie Lamport",
+          "link": "https://lamport.azurewebsites.net/pubs/time-clocks.pdf",
+          "linkLabel": "Read Paper"
+        },
+        {
+          "year": "1982",
+          "title": "The Byzantine Generals Problem",
+          "author": "Leslie Lamport, Robert Shostak & Marshall Pease",
+          "link": "https://lamport.azurewebsites.net/pubs/byz.pdf",
+          "linkLabel": "Read Paper"
+        },
+        {
+          "year": "2003",
+          "title": "The Google File System",
+          "author": "Ghemawat, Gobioff & Leung",
+          "link": "https://static.googleusercontent.com/media/research.google.com/en//archive/gfs-sosp2003.pdf",
+          "linkLabel": "Read Paper"
+        },
+        {
+          "year": "2004",
+          "title": "MapReduce: Simplified Data Processing on Large Clusters",
+          "author": "Dean & Ghemawat",
+          "link": "https://static.googleusercontent.com/media/research.google.com/en//archive/mapreduce-osdi04.pdf",
+          "linkLabel": "Read Paper"
+        },
+        {
+          "year": "2007",
+          "title": "Dynamo: Amazon's Highly Available Key-Value Store",
+          "author": "DeCandia et al.",
+          "link": "https://dl.acm.org/doi/10.1145/1294261.1294281",
+          "linkLabel": "Read Paper"
+        },
+        {
+          "year": "2008",
+          "title": "Bitcoin: A Peer-to-Peer Electronic Cash System",
+          "author": "Satoshi Nakamoto",
+          "link": "https://bitcoin.org/bitcoin.pdf",
+          "linkLabel": "Read Paper"
+        },
+        {
+          "year": "2012",
+          "title": "Spanner: Google's Globally Distributed Database",
+          "author": "Corbett et al.",
+          "link": "https://dl.acm.org/doi/10.1145/2491245",
+          "linkLabel": "Read Paper"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "num": "06",
+      "title": "Security & Cryptography",
+      "papers": [
+        {
+          "year": "1976",
+          "title": "New Directions in Cryptography",
+          "author": "Whitfield Diffie & Martin Hellman",
+          "link": "https://ee.stanford.edu/~hellman/publications/24.pdf",
+          "linkLabel": "Read Paper"
+        },
+        {
+          "year": "1978",
+          "title": "A Method for Obtaining Digital Signatures and Public-Key Cryptosystems (RSA)",
+          "author": "Rivest, Shamir & Adleman",
+          "link": "https://dl.acm.org/doi/10.1145/359340.359342",
+          "linkLabel": "Read Paper"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "num": "07",
+      "title": "Software Engineering & Interface Design",
+      "papers": [
+        {
+          "year": "1960",
+          "title": "Man-Computer Symbiosis",
+          "author": "J.C.R. Licklider",
+          "link": "https://ieeexplore.ieee.org/document/5214051",
+          "linkLabel": "Read Paper"
+        },
+        {
+          "year": "1962",
+          "title": "Augmenting Human Intellect: A Conceptual Framework",
+          "author": "Douglas Engelbart",
+          "link": "https://www.dougengelbart.org/pubs/augment-3906.html",
+          "linkLabel": "Read Paper"
+        },
+        {
+          "year": "1963",
+          "title": "Sketchpad: A Man-Machine Graphical Communication System",
+          "author": "Ivan Sutherland",
+          "link": "https://dl.acm.org/doi/10.1145/1461551.1461591",
+          "linkLabel": "Read Paper"
+        },
+        {
+          "year": "1972",
+          "title": "On the Criteria To Be Used in Decomposing Systems into Modules",
+          "author": "David Parnas",
+          "link": "https://dl.acm.org/doi/pdf/10.1145/361598.361623",
+          "linkLabel": "Read Paper"
+        },
+        {
+          "year": "1975",
+          "title": "The Mythical Man-Month",
+          "author": "Fred Brooks",
+          "link": "https://archive.org/details/mythicalmanmonth00broo",
+          "linkLabel": "Read Book"
+        },
+        {
+          "year": "1975",
+          "title": "The Protection of Information in Computer Systems",
+          "author": "Saltzer & Schroeder",
+          "link": "https://dl.acm.org/doi/10.1109/PROC.1975.9939",
+          "linkLabel": "Read Paper"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "num": "08",
+      "title": "Computer Graphics & Vision",
+      "papers": [
+        {
+          "year": "1980",
+          "title": "An Improved Illumination Model for Shaded Display",
+          "author": "Turner Whitted",
+          "link": "https://dl.acm.org/doi/10.1145/358876.358882",
+          "linkLabel": "Read Paper"
+        },
+        {
+          "year": "1986",
+          "title": "The Rendering Equation",
+          "author": "James Kajiya",
+          "link": "https://dl.acm.org/doi/10.1145/15922.15902",
+          "linkLabel": "Read Paper"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "num": "09",
+      "title": "The Evolution of AI & Search",
+      "papers": [
+        {
+          "year": "1950",
+          "title": "Computing Machinery and Intelligence",
+          "author": "Alan Turing",
+          "link": "https://www.cs.ox.ac.uk/activities/ieg/e-library/sources/t_article.pdf",
+          "linkLabel": "Read Paper"
+        },
+        {
+          "year": "1958",
+          "title": "The Perceptron: A Probabilistic Model for Information Storage and Organization",
+          "author": "Frank Rosenblatt",
+          "link": "https://psycnet.apa.org/record/1959-09865-001",
+          "linkLabel": "Read Paper"
+        },
+        {
+          "year": "1969",
+          "title": "Perceptrons: An Introduction to Computational Geometry",
+          "author": "Marvin Minsky & Seymour Papert",
+          "link": "https://archive.org/details/perceptronsintro0000mins",
+          "linkLabel": "Read Book"
+        },
+        {
+          "year": "1986",
+          "title": "Learning Representations by Back-Propagating Errors",
+          "author": "Rumelhart, Hinton & Williams",
+          "link": "https://www.nature.com/articles/323533a0",
+          "linkLabel": "Read Paper"
+        },
+        {
+          "year": "1992",
+          "title": "A Training Algorithm for Optimal Margin Classifiers",
+          "author": "Boser, Guyon & Vapnik",
+          "link": "https://dl.acm.org/doi/10.1145/130385.130401",
+          "linkLabel": "Read Paper"
+        },
+        {
+          "year": "1995",
+          "title": "A Decision-Theoretic Generalization of On-Line Learning and an Application to Boosting",
+          "author": "Freund & Schapire",
+          "link": "https://www.sciencedirect.com/science/article/pii/S002200009791504X",
+          "linkLabel": "Read Paper"
+        },
+        {
+          "year": "1997",
+          "title": "Long Short-Term Memory",
+          "author": "Hochreiter & Schmidhuber",
+          "link": "https://direct.mit.edu/neco/article-abstract/9/8/1735/6109",
+          "linkLabel": "Read Paper"
+        },
+        {
+          "year": "1998",
+          "title": "Reinforcement Learning: An Introduction",
+          "author": "Sutton & Barto",
+          "link": "http://incompleteideas.net/book/the-book-2nd.html",
+          "linkLabel": "Read Book"
+        },
+        {
+          "year": "1998",
+          "title": "The Anatomy of a Large-Scale Hypertextual Web Search Engine",
+          "author": "Sergey Brin & Larry Page",
+          "link": "http://infolab.stanford.edu/~pub/papers/google.pdf",
+          "linkLabel": "Read Paper"
+        },
+        {
+          "year": "1999",
+          "title": "The PageRank Citation Ranking: Bringing Order to the Web",
+          "author": "Page, Brin et al.",
+          "link": "https://www.semanticscholar.org/paper/The-PageRank-Citation-Ranking%3A-Bringing-Order-to-Page-Brin/eb82d3035849cd23578096462ba419b53198a556",
+          "linkLabel": "Read Paper"
+        },
+        {
+          "year": "2012",
+          "title": "ImageNet Classification with Deep Convolutional Neural Networks",
+          "author": "Krizhevsky, Sutskever & Hinton",
+          "link": "https://papers.nips.cc/paper/2012/file/c3982bc38a8db228b915fea8b800b34d-Paper.pdf",
+          "linkLabel": "Read Paper"
+        },
+        {
+          "year": "2014",
+          "title": "Generative Adversarial Networks",
+          "author": "Goodfellow et al.",
+          "link": "https://arxiv.org/abs/1406.2661",
+          "linkLabel": "Read Paper"
+        },
+        {
+          "year": "2015",
+          "title": "Human-Level Control through Deep Reinforcement Learning",
+          "author": "Mnih et al. (DeepMind)",
+          "link": "https://www.nature.com/articles/nature14236",
+          "linkLabel": "Read Paper"
+        },
+        {
+          "year": "2016",
+          "title": "Deep Residual Learning for Image Recognition",
+          "author": "He et al.",
+          "link": "https://arxiv.org/abs/1512.03385",
+          "linkLabel": "Read Paper"
+        },
+        {
+          "year": "2017",
+          "title": "Mastering the Game of Go without Human Knowledge",
+          "author": "Silver et al. (DeepMind)",
+          "link": "https://www.nature.com/articles/nature24270",
+          "linkLabel": "Read Paper"
+        },
+        {
+          "year": "2017",
+          "title": "Attention Is All You Need",
+          "author": "Vaswani et al. (Google)",
+          "link": "https://arxiv.org/abs/1706.03762",
+          "linkLabel": "Read Paper"
+        },
+        {
+          "year": "2017",
+          "title": "Proximal Policy Optimization Algorithms (PPO)",
+          "author": "Schulman et al. (OpenAI)",
+          "link": "https://arxiv.org/abs/1707.06347",
+          "linkLabel": "Read Paper"
+        },
+        {
+          "year": "2020",
+          "title": "Language Models are Few-Shot Learners",
+          "author": "Brown et al. (OpenAI)",
+          "link": "https://arxiv.org/abs/2005.14165",
+          "linkLabel": "Read Paper"
+        },
+        {
+          "year": "2022",
+          "title": "Constitutional AI: Harmlessness from AI Feedback",
+          "author": "Bai et al. (Anthropic)",
+          "link": "https://arxiv.org/abs/2212.08073",
+          "linkLabel": "Read Paper"
+        }
+      ]
+    }
+  ],
+  "strategy": [
+    "Read the paper and highlight key takeaways.",
+    "Write a 1-page summary in the notes/ directory.",
+    "Connect the historical concepts to modern software engineering patterns you use today."
+  ]
+}
